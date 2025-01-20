@@ -5,13 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/UE5 Github/MarioClone/MarioClone/Content/Maps/L_Level1.umap",
-				"D:/UE5 Github/MarioClone/MarioClone/Content/Maps/L_WorldSelect.umap",
-				"D:/UE5 Github/MarioClone/MarioClone/Content/Maps/L_DeveloperLevel.umap",
-				"D:/UE5 Github/MarioClone/MarioClone/Content/Utility/Images/ScaleReferences/NewSuperMarioBrosWii-World.uasset",
-				"D:/UE5 Github/MarioClone/MarioClone/Content/Utility/Images/ScaleReferences/newsupermariobroslevel.uasset",
-				"D:/UE5 Github/MarioClone/MarioClone/Content/Utility/Images/ScaleReferences/oldmariobroslevel.uasset",
-				"D:/UE5 Github/MarioClone/MarioClone/Content/Characters/Mario/Blueprints/BP_MarioParent.uasset",
 				"S:/Github/MarioClone/MarioClone/Content/Maps/L_DeveloperLevel.umap",
 				"S:/Github/MarioClone/MarioClone/Content/Assets/deleteme_asset.uasset",
 				"S:/Github/MarioClone/MarioClone/Content/Blueprints/deleteme_blueprint.uasset",
