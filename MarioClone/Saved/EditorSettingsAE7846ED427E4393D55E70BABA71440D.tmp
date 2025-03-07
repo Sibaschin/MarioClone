@@ -1,0 +1,82 @@
+;METADATA=(Diff=true, UseCommands=true)
+[/Script/UnrealEd.EditorSettings]
+bCopyStarterContentPreference=False
+LocalDerivedDataCache=(Path="")
+SharedDerivedDataCache=(Path="")
+bEnableS3DDC=True
+CreatedProjectPaths=S:\Unreal Engine
+CreatedProjectPaths=S:\Github\MarioClone
+CreatedProjectPaths=S:\Github\BoxmanPlatformer
+AutoScalabilityWorkScaleAmount=1.000000
+RecentlyOpenedProjectFiles=(ProjectName="S:/Github/MarioClone/MarioClone/MarioClone.uproject",LastOpenTime=2025.03.06-23.30.52)
+RecentlyOpenedProjectFiles=(ProjectName="S:/Unreal Engine/ActorComponents/ActorComponents.uproject",LastOpenTime=2025.03.06-18.28.13)
+RecentlyOpenedProjectFiles=(ProjectName="S:/Unreal Engine/BR_TUT_Series 5.5/BR_TUT_Series.uproject",LastOpenTime=2025.02.27-05.25.08)
+RecentlyOpenedProjectFiles=(ProjectName="S:/Unreal Engine/BlankProjectSetup/BlankProjectSetup.uproject",LastOpenTime=2025.02.26-16.27.38)
+RecentlyOpenedProjectFiles=(ProjectName="S:/Unreal Engine/PlumberGame/PlumberGame.uproject",LastOpenTime=2025.02.26-05.12.35)
+RecentlyOpenedProjectFiles=(ProjectName="S:/Unreal Engine/TopGunIdea 5.5/TopGunIdea.uproject",LastOpenTime=2025.02.25-03.31.11)
+RecentlyOpenedProjectFiles=(ProjectName="S:/Unreal Engine/Polygon/PolygonPrototype/PolygonPrototype.uproject",LastOpenTime=2025.02.25-03.04.00)
+RecentlyOpenedProjectFiles=(ProjectName="S:/Unreal Engine/PF_TutorialProject/PF_TutorialProject.uproject",LastOpenTime=2025.02.08-01.50.44)
+RecentlyOpenedProjectFiles=(ProjectName="S:/Unreal Engine/characterSpeedrun/characterSpeedrun.uproject",LastOpenTime=2025.02.07-06.48.23)
+RecentlyOpenedProjectFiles=(ProjectName="S:/Unreal Engine/BoxmanPlatformer/BoxmanPlatformer.uproject",LastOpenTime=2025.02.05-07.05.24)
+bEnableDDCNotifications=True
+bNotifyUseHordeStorage=True
+bNotifySetupDDCPath=True
+bNotifyEnableS3DD=True
+bNotifyUseUnrealCloudDDC=True
+
+[/Script/UnrealEd.ContentBrowserSettings]
+DisplayEngineFolder=True
+FilterRecursively=True
+bShowAllFolder=True
+bOrganizeFolders=True
+bDisplayContentFolderSuffix=True
+bDisplayFriendlyNameForPluginFolders=True
+bEnableRealtimeMaterialInstanceThumbnails=True
+DisplayL10NFolder=False
+DisplayPluginFolders=True
+DisplayFavorites=False
+bDisplayExcludedCollections=False
+
+[ScalabilityGroups]
+sg.ResolutionQuality=100
+sg.ViewDistanceQuality=3
+sg.AntiAliasingQuality=3
+sg.ShadowQuality=3
+sg.PostProcessQuality=3
+sg.TextureQuality=3
+sg.EffectsQuality=3
+sg.FoliageQuality=3
+sg.ShadingQuality=3
+sg.GlobalIlluminationQuality=3
+sg.ReflectionQuality=3
+sg.LandscapeQuality=3
+
+[DrawerSizes]
+LevelEditor.StatusBar.ContentBrowser=0.735537171
+BlueprintEditorApp.ContentBrowser=0.480839401
+MaterialInstanceEditorApp.ContentBrowser=0.265088797
+LevelEditor.StatusBar.OutputLog=0.627737224
+MaterialEditorApp.ContentBrowser=0.373175174
+AnimationEditorApp.ContentBrowser=0.330000013
+SkeletalMeshEditorApp.ContentBrowser=0.460766435
+
+[SuppressableDialogs]
+Warning_SwitchProject=True
+
+[EngineBenchmarkResult]
+Valid=True
+ResolutionQuality=100
+ViewDistanceQuality=3
+AntiAliasingQuality=3
+ShadowQuality=3
+GlobalIlluminationQuality=3
+ReflectionQuality=3
+PostProcessQuality=3
+TextureQuality=3
+EffectsQuality=3
+FoliageQuality=3
+ShadingQuality=3
+
+[/Script/UnrealEd.ZenServerSettings]
+InUseDefaultDataPath=C:/Users/Austin/AppData/Local/UnrealEngine/Common/Zen/Data
+
